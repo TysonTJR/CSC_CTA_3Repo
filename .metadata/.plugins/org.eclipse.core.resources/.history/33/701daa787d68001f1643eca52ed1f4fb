@@ -1,0 +1,24 @@
+import java.util.Scanner; //imports Java scanner class
+
+
+public class cacAverageWithholding {
+
+	public static void main(String[] args) {
+		Scanner scnr = new Scanner(System.in); //Creates a scanner for user input
+		
+		int weeklyIncome;               // declaring a int variable for weekly income
+		
+		double lowestTaxRate = 0.10;
+		double secoundLowestTaxRate = 0.15;
+		double secoundHighestTaxRate = 0.20;    //declaring all double variables for tax rates
+		double highestTaxRate = 0.30;
+		
+		System.out.println("Enter your weekly income here: ");
+		weeklyIncome = scnr.nextInt();
+		
+
+				
+
+	}
+
+}

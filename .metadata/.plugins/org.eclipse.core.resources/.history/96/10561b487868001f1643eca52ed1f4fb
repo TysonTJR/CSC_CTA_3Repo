@@ -1,0 +1,11 @@
+
+public class cacAverageWithholding {
+
+	public static void main(String[] args) {
+		Scanner scnr = new Scanner(System.in);
+		
+		Boolean lowestWeeklyIncome;
+
+	}
+
+}
